@@ -6,7 +6,7 @@ html body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 1rem;
-    background: #effdff;
+    background: grey;
 }
 
 h1 {
